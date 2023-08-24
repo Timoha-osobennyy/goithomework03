@@ -23,8 +23,13 @@ ol {
     padding-right: 15px;
     margin: 0 auto;
 }
+ img{
+    display: block
+ }
 .container-header
-.header-nav
+.header-nav{
+display: flex;
+}
 .menu-nav
 .header-adress {
  display: flex;
@@ -119,6 +124,7 @@ font-size: 16px;
 .info-link:focus {
     color: #404bbf;
 }
+.container-header{display: flex;}
 
 .nav-focus {
     font-size: 16px;
