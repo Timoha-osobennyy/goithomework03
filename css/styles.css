@@ -40,6 +40,7 @@ ol {
 .menu-nav {
     align-items: center;
     gap: 40px;
+    display: flex;
 
 }
 body { 
